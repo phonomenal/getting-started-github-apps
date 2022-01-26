@@ -1,5 +1,7 @@
 # Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/4a12f75b-9c52-4a5f-a071-d14396eb87e2.svg?orgId=650162616495)](https://app.soluble.cloud/repos/details/github.com/james-leha/getting-started-github-apps?orgId=650162616495)  
+
 Below is a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines, you name it.
 
 The repository [leeriley/games](https://github.com/leereilly/games) is the basis for this repository and has been slightly repurposed for this project.
